@@ -4,7 +4,7 @@
 > [!Tips]
 > nixがすでに入っている場合は不要です。
 
-サイト(https://librelane.readthedocs.io/en/stable/installation/nix_installation/installation_linux.html)にしたがって進めてください。
+サイト([https://librelane.readthedocs.io/en/stable/installation/nix_installation/installation_linux.html](https://librelane.readthedocs.io/en/stable/installation/nix_installation/installation_linux.html))にしたがって進めてください。
 
 ## このリポジトリ+サブモジュールをクローン
 ```terminal
